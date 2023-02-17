@@ -19,7 +19,7 @@ app.use(session({
 }))
 
 
-hbbn
+
 
 app.set('view engine','ejs')
 app.set('views','views')
